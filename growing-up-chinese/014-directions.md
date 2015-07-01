@@ -29,6 +29,7 @@
 Examples:
 
 远不远 (yuan3 bu2 yuan3) ＝ far or not far? = is it far? 
+
 喜欢不喜欢 (xi3 huan1 bu2 xi3 huan1) ＝ like it or don't like it? = do you like it?
 
 -
