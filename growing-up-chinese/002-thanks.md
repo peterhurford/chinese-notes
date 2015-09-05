@@ -1,4 +1,4 @@
-## Lesson 1: Greetings
+## Lesson 2: Thanks
 
 #### Vocab
 
