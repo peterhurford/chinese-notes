@@ -1,4 +1,4 @@
-## Lesson 6: Time
+## Lesson 7: Time
 
 #### Vocab
 
