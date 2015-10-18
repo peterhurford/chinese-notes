@@ -1,4 +1,4 @@
-## Lessons 8 and 9: Having Dinner
+## Lesson 8: Having Dinner
 
 #### Vocab
 
