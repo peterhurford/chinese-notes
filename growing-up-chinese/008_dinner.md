@@ -25,9 +25,9 @@
 **Measure words**
 
 
-一双筷子 = one pair of chopsticks
-两双筷子 = two pairs of chopsticks
-三双筷子 = three pairs of chopsticks
-...
+* 一双筷子 = one pair of chopsticks
+* 两双筷子 = two pairs of chopsticks
+* 三双筷子 = three pairs of chopsticks
+* ...
 
 "筷" is the measure word for chopsticks.  Chinese measure words don't change with quantity, but they do have many different measure words for different things.
