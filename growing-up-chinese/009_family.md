@@ -4,18 +4,19 @@
 
 | Characters | Pinyin | English |
 -------------|--------|----------
-会 | hui4 | can, having the ability to
-用 | yong4 | use
-筷子 | kuai4 zi | chopsticks
-没关系 ｜mei2 guan1 xi | that's ok / no matter / no problem / you're welcome
-洗 | xi3 | to wash
-碗 | wan3 | bowl / dishes
-有 | you3 | to have
-太 | tai4 | too (as in "too big", "too much")
-刀 | dao1 | knife
-叉 | cha1 | fork
+家 | jia1 | family, home
+口 | jou3 | mouth, measure word for people
+你家有几口人？ | ni3 jia1 you3 ji3 kou3 ren2 | how many people are in your family?
+姐姐 | jie3 jie | older sister
+妹妹 | mei4 mei | younger sister
+奶奶 | nai3 nai | grandmother
+只 | zhi3 | only
+孩子 | hai2 zi | child
+有 | you3 | have
+没有 | mei2 you3 | do not have
 
 #### Grammar
+
 
 * **会 + verb** = To be able to do that verb
 * **很会 + verb** = To be really good at doing that verb
@@ -26,7 +27,7 @@
 
 
 * 一双筷子 = one pair of chopsticks
-* 两双筷子 = two pairs of chopsticks (note that two (er4, 二) turns into liang3, 两 when being used to measure quantity. This is the only exception.)
+* 两双筷子 = two pairs of chopsticks
 * 三双筷子 = three pairs of chopsticks
 * ...
 
